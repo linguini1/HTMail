@@ -1,0 +1,22 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Arapey:ital@0;1&display=swap');
+
+/* Resets */
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(199, 92, 30);
+}
+
+.main {
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+.socials {
+    display: flex;
+    gap: 10px;
+}
+
+.socials a:hover {
+    text-decoration: underline;
+}
